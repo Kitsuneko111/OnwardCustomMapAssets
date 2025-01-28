@@ -11,4 +11,4 @@ Sure! Either submit a commit/PR with the content and a collaborator will approve
 
 Tags are for easily searchable words
 
-This repository is under GNU-V3 and as such any assets added to the Custom Assets section will be under this license as well. Please only submit assets you have made and are comfortable with being under this license.
+This repository is under GPL-3.0 and as such any assets added to the Custom Assets section will be under this license as well. Please only submit assets you have made and are comfortable with being under this license.
