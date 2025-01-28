@@ -8,5 +8,7 @@
 
 ## Want to contribute?
 Sure! Either submit a commit/PR with the content and a collaborator will approve it, or ping kitsuneko111 in the [Onward Discord](https://discord.gg/onward) if you're a known map maker.
+
 Tags are for easily searchable words
+
 This repository is under GNU-V3 and as such any assets added to the Custom Assets section will be under this license as well. Please only submit assets you have made and are comfortable with being under this license.
